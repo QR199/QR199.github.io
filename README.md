@@ -3,9 +3,9 @@
 ## Posts:
 
 ## Leetcode progess:
-  ### Fundamental Algorithms:
-  - Binary Search
-  - DFS
-  - BFS
+  - Fundamental Algorithms:
+  -- Binary Search
+  -- DFS
+  -- BFS
 
 ## Cortical Minicolumn:
