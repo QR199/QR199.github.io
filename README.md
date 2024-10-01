@@ -1,11 +1,11 @@
 # Quinn Ridgeway
 
-Posts:
+## Posts:
 
-Leetcode progess:
-  ## Fundamental Algorithms:
+## Leetcode progess:
+  ### Fundamental Algorithms:
   - Binary Search
   - DFS
   - BFS
 
-Cortical Minicolumn:
+## Cortical Minicolumn:
