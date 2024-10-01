@@ -49,74 +49,74 @@ I think continuing to schedule will be the most important thing to focus on. I h
   
 ### Binary Search
 ```python
-    > def binarySearch(arr, low, high, x):
-      > while low <= high:
-        > mid = low + (high - low) // 2
+     def binarySearch(arr, low, high, x):
+       while low <= high:
+         mid = low + (high - low) // 2
         
-        > # Check if x is present at mid
-        > if arr[mid] == x:
-          > return mid
+         # Check if x is present at mid
+         if arr[mid] == x:
+           return mid
 
-        > # If x is greater, ignore left half
-        > elif arr[mid] < x:
-          > low = mid + 1
+         # If x is greater, ignore left half
+         elif arr[mid] < x:
+           low = mid + 1
 
-        > # If x is smaller, ignore right half
-        > else:
-          > high = mid - 1
+         # If x is smaller, ignore right half
+         else:
+           high = mid - 1
 
-      > # If we reach here, then the element
-      > # was not present
-      > return -1
+       # If we reach here, then the element
+       # was not present
+       return -1
   ```
   Source: https://www.geeksforgeeks.org/binary-search/
 
   
 ### DFS
 ```python
-    > def add_edge(adj, s, t):
-      > # Add edge from vertex s to t
-      > adj[s].append(t)
-      > # Due to undirected Graph
-      > adj[t].append(s)
+     def add_edge(adj, s, t):
+       # Add edge from vertex s to t
+       adj[s].append(t)
+       # Due to undirected Graph
+       adj[t].append(s)
 
 
-    > def dfs_rec(adj, visited, s):
-     > # Mark the current vertex as visited
-      > visited[s] = True
+     def dfs_rec(adj, visited, s):
+      # Mark the current vertex as visited
+       visited[s] = True
 
-      > # Print the current vertex
-      > print(s, end=" ")
+       # Print the current vertex
+       print(s, end=" ")
 
-      > # Recursively visit all adjacent vertices
-      > # that are not visited yet
-      > for i in adj[s]:
-        > if not visited[i]:
-          > dfs_rec(adj, visited, i)
-
-
-    > def dfs(adj, s):
-      > visited = [False] * len(adj)
-       > # Call the recursive DFS function
-       > dfs_rec(adj, visited, s)
+       # Recursively visit all adjacent vertices
+       # that are not visited yet
+       for i in adj[s]:
+         if not visited[i]:
+           dfs_rec(adj, visited, i)
 
 
-    > if __name__ == "__main__":
-      >  V = 5
+     def dfs(adj, s):
+       visited = [False] * len(adj)
+        # Call the recursive DFS function
+        dfs_rec(adj, visited, s)
 
-      > # Create an adjacency list for the graph
-       > adj = [[] for _ in range(V)]
 
-       > # Define the edges of the graph
-       > edges = [[1, 2], [1, 0], [2, 0], [2, 3], [2, 4]]
+     if __name__ == "__main__":
+        V = 5
 
-       > # Populate the adjacency list with edges
-       > for e in edges:
-       > add_edge(adj, e[0], e[1])
+       # Create an adjacency list for the graph
+        adj = [[] for _ in range(V)]
 
-      > source = 1
-      > print("DFS from source:", source)
-      > dfs(adj, source)
+        # Define the edges of the graph
+        edges = [[1, 2], [1, 0], [2, 0], [2, 3], [2, 4]]
+
+        # Populate the adjacency list with edges
+        for e in edges:
+        add_edge(adj, e[0], e[1])
+
+       source = 1
+       print("DFS from source:", source)
+       dfs(adj, source)
   ```
   source: https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/
 
