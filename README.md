@@ -122,9 +122,12 @@ I think continuing to schedule will be the most important thing to focus on. I h
 
 ## Cortical Minicolumn:
 
+### Under Construction
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/2/21/Cortical_Minicolumn.png">
  <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/2/21/Cortical_Minicolumn.png">
  <img alt="Cortical Minicolumn in mouse cortex" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Cortical_Minicolumn.png">
 </picture>
+
 
