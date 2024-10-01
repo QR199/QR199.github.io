@@ -1,2 +1,9 @@
 # QR199.github.io
-personal website
+Quinn Ridgeway
+
+Posts:
+
+Leetcode progess:
+-fundamental algorithms
+
+Cortical minicolumn:
