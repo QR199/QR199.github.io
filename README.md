@@ -42,9 +42,38 @@ I think continuing to schedule will be the most important thing to focus on. I h
 
 
 ## Fundamental Algorithms for Leetcode:
-  - Binary Search
-  - DFS
-  - BFS
+  
+  ## Binary Search
+
+    > def binarySearch(arr, low, high, x):
+
+      > while low <= high:
+
+        > mid = low + (high - low) // 2
+
+        > # Check if x is present at mid
+        > if arr[mid] == x:
+           > return mid
+
+       > # If x is greater, ignore left half
+       > elif arr[mid] < x:
+           > low = mid + 1
+
+       > # If x is smaller, ignore right half
+        > else:
+           > high = mid - 1
+
+     > # If we reach here, then the element
+     > # was not present
+     > return -1
+
+Source: https://www.geeksforgeeks.org/binary-search/
+
+  
+  ## DFS
+  
+  ## BFS
+  
 
 ## Cortical Minicolumn:
 
