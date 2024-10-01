@@ -43,7 +43,7 @@ I think continuing to schedule will be the most important thing to focus on. I h
 
 ## Fundamental Algorithms for Leetcode:
   
-  ## Binary Search
+## Binary Search
 
     > def binarySearch(arr, low, high, x):
       > while low <= high:
@@ -68,7 +68,7 @@ I think continuing to schedule will be the most important thing to focus on. I h
   Source: https://www.geeksforgeeks.org/binary-search/
 
   
-  ## DFS
+## DFS
 
     > def add_edge(adj, s, t):
       > # Add edge from vertex s to t
@@ -117,7 +117,7 @@ I think continuing to schedule will be the most important thing to focus on. I h
   source: https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/
 
   
-  ## BFS
+## BFS
   
 
 ## Cortical Minicolumn:
