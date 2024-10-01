@@ -1,9 +1,11 @@
-# QR199.github.io
-Quinn Ridgeway
+# Quinn Ridgeway
 
 Posts:
 
 Leetcode progess:
-  - fundamental algorithms
+  ## Fundamental Algorithms:
+  - Binary Search
+  - DFS
+  - BFS
 
-Cortical minicolumn:
+Cortical Minicolumn:
