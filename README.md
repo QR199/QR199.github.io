@@ -4,6 +4,6 @@ Quinn Ridgeway
 Posts:
 
 Leetcode progess:
--fundamental algorithms
+  - fundamental algorithms
 
 Cortical minicolumn:
