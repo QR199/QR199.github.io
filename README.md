@@ -2,7 +2,7 @@
 
 ## Posts:
 
-- week 3:
+## week 3:
 
 What did you do last week?
 I set up my leet code account, and looked at one problem. I also examined the largest human connectome dataset. It is to date the largest map of neural connections from an individual human brain ever produced. It has synapse level information and is the biggest publicly available brain map that I am aware of.   
@@ -16,7 +16,7 @@ A lack of information. I think it would be cool to simulate part of an actual hu
 Reflection on the process you used last week, how can you make the process work better?
 I plan on getting more organized, I got distracted working on other classes that I should have taken earlier on in my degree. 
 
-- week 4:
+## week 4:
   
 What I did  last week: Last week I decided to focus on leetcode for my project. I may still try to mess around with the human brain data on the side, but it was probably too much for one semester with other classes. It would be neat to have a graph representation of one human cortical mini-column by the end of the semester. 
 
@@ -26,7 +26,7 @@ Are there any impediments in my way: The main stumbling block I hit this week wa
 
 Reflection on the process used last week, and how can I make the process work better: I think that my main goal should be to get caught up in all other classes so that I can schedule a dedicated day for leetcode/ brain analysis. I have also heard that when first starting in leetcode it's wise to memorize some fundamental algorithms and patterns, so that all of your cognitive effort can be focused on permuting them into a specific solution. I started with binary search, and I think I have it mostly memorized. 
 
-- week 5:
+## week 5:
  
 What did you do last week?
 Last week I worked on memorizing a few fundamental algorithms for leetcode problems. I have been focusing mainly on binary search problems.
@@ -47,3 +47,10 @@ I think continuing to schedule will be the most important thing to focus on. I h
   - BFS
 
 ## Cortical Minicolumn:
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/2/21/Cortical_Minicolumn.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/2/21/Cortical_Minicolumn.png">
+ <img alt="Cortical Minicolumn in mouse cortex" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Cortical_Minicolumn.png">
+</picture>
+
