@@ -58,6 +58,63 @@ I am getting better at scheduling but it is still difficult to prioritize making
 **Reflection on the process you used last week, how can you make the process work better?**
 I think my best strategy is going to be finding a specific day this upcoming week to solely dedicate to my goals in this class. As a side note I have included the link to the brain dataset, it is 1.4 petabytes, which is crazy! https://h01-release.storage.googleapis.com/landing.html 
 
+### week 8:
+
+**What did you do last week?**
+Last week I mainly focused on computer systems exam two. I was primarily catching up on that class and a little bit of machine learning.
+
+**What do you plan to do this week?**
+This week I have much more time to focus on Leetcode problems, so that will be my primary goal. I am still working on binary search, and DFS easy problems. I plan to continue focusing on that until I feel prepared for more mediums.
+
+**Are there any impediments in your way?**
+Not this week.
+
+**Reflection on the process you used last week, how can you make the process work better?**
+This week I am in a much better time management place, and am mostly caught up on all of my other schoolwork.
+
+### week 9:
+
+**What did you do last week?**
+Last week I looked at DFS more in depth. I also found the website algomap.io which seems to be a good free resource for technical interview problems, if anyone else is interested. There is also an associated Youtube channel with good explanations.
+
+**What do you plan to do this week?**
+This week I am going to focus on algomap.io problems and continue researching digital models of neural activity.
+
+**Are there any impediments in your way?**
+Not so far!
+
+**Reflection on the process you used last week, how can you make the process work better?**
+I have a tendency to fall down research rabbit holes. I think remaining focused in one particular area will be critical.  
+
+### week 11:
+
+**What did you do last week?**
+Last week I worked on a lab for 2400 and started preparing for the next exam. I also continued with leetcode practice.
+
+**What do you plan to do this week?**
+This week I plan to continue working on leetcode, I also found the organization 80,000 hours which gives career advice and I am fine tuning my resume to send to them. If anyone else is interested this is a link to their website: https://80000hours.org/
+
+**Are there any impediments in your way?**
+The winter weather seems to have a negative effect on productivity, but not in a major way. It should be mostly straight forward to continue.
+
+**Reflection on the process you used last week, how can you make the process work better?**
+Last week I was a bit less organized than normal, this week I have all my tasks scheduled and ready to go.
+
+### week 12:
+
+**What did you do last week?**
+Last week I worked on leetcode and tuned up my resume to submit to 80,000 hours.
+
+**What do you plan to do this week?**
+This week I will have less time to work on leetcode and the brain project. I have a machine learning project and a computer systems exam/ lab due. So I will be directing my attention towards the other classes in a more systematic way. But my hope is that by next week I can talk to the people from 80,000 hours because they supposedly give really good career advice. If anyone has any experience with them let me know.
+
+**Are there any impediments in your way?**
+My family has come to stay with me for a week so it has been difficult to maintain a normal schedule. However so far I haven't completely dropped the ball. They will be gone by next week so I will have time to work on the final push of the semester.
+
+**Reflection on the process you used last week, how can you make the process work better?**
+I think next week there will be less impediments in my way and I can return to normal working conditions.
+
+
 
 ## Fundamental Algorithms for Leetcode:
   
