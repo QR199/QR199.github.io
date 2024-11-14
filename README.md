@@ -44,6 +44,20 @@ My main impediment this week is remaining on top of computer systems. So far it 
 **Reflection on the process you used last week, how can you make the process work better?**
 I think continuing to schedule will be the most important thing to focus on. I have found that merely starting things early and not necessarily completing them fully gives you much more momentum.
 
+### week 7:
+
+**What did you do last week?**
+Last week I prepared for exam two in computer systems and looked into some graph theory stuff when considering cortical columns. I also looked into depth first search more thoroughly for leetcode. I haven't fully memorized it yet but will keep working on that. I also had to turn in the first machine learning project in that class which took quite a while.
+
+**What do you plan to do this week?**
+This week I needed to prepare more for exam two in computer systems, which was very time consuming. I also miss-read the timing of the exam and took it in the middle of the night so as not to entirely miss the exam. This week I also need to finish one of the computer systems labs which I anticipate to be difficult.
+
+**Are there any impediments in your way?**
+I am getting better at scheduling but it is still difficult to prioritize making real gains on the brain simulation. I think by next week I will have much more time to focus on leetcode progress/ the brain. There appears to be a lull in the intensity of my other two classes in week eight.
+
+**Reflection on the process you used last week, how can you make the process work better?**
+I think my best strategy is going to be finding a specific day this upcoming week to solely dedicate to my goals in this class. As a side note I have included the link to the brain dataset, it is 1.4 petabytes, which is crazy! https://h01-release.storage.googleapis.com/landing.html 
+
 
 ## Fundamental Algorithms for Leetcode:
   
