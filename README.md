@@ -114,6 +114,20 @@ My family has come to stay with me for a week so it has been difficult to mainta
 **Reflection on the process you used last week, how can you make the process work better?**
 I think next week there will be less impediments in my way and I can return to normal working conditions.
 
+### week 13:
+
+***What did you do last week?***
+Last week I reached out to 80,000 hours and got caught up on the projects and exams in my other classes.
+
+***What do you plan to do this week?***
+This week I plan to try and get a head start on the projects and assignments due for the final weeks of the semester so that I will have more time for the final project in this class. I haven't yet heard back from 80,000 hours yet, but am hoping they reach out soon. I think that I will need to put a lot of effort and time into the final report for this class. I am wondering if other students have already started their final reports, and if so what they look like? Also if anyone has had any success in job interviews or other professional success during this class that I might have missed that would be cool to hear about.
+
+***Are there any impediments in your way?***
+This week I have been feeling under the weather and it has slowed down my progress, but I am hoping that I start to feel better by the weekend. Other than there aren't too many obstacles in my way.
+
+***Reflection on the process you used last week, how can you make the process work better?***
+I think maintaining motivation through the final weeks of the semester will be critical. Especially given the holidays and weather conditions in Colorado. It always feels like moving through syrup this time of year, but we are so close to the end. 
+
 
 
 ## Fundamental Algorithms for Leetcode:
