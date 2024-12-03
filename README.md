@@ -128,6 +128,20 @@ This week I have been feeling under the weather and it has slowed down my progre
 **Reflection on the process you used last week, how can you make the process work better?**
 I think maintaining motivation through the final weeks of the semester will be critical. Especially given the holidays and weather conditions in Colorado. It always feels like moving through syrup this time of year, but we are so close to the end. 
 
+### week 14:
+
+**What did you do last week?**
+Last week was fall break so I spent most of the week with family. I did less school work than I had planned but so far that has worked out.
+
+**What do you plan to do this week?**
+If I do everything right I should be able to have most of my work for the semester done by Friday. I need to finish a homework and final project in ML, and prepare for the final computer systems exam next week. That would leave me with much more time to focus on the final report for this class at the end of this week, and throughout next week. For my final report, I will mostly be discussing my leetcode progress this semester. Recently I have worked more on trees. I tried the "invert a binary tree" question and was amazed at how straight forward the solution was compared to the one I was thinking of. If anyone feels like a leetcode master in this class I am curious how long it took you to get there? In terms of my side project I wont be including the brain project in the final report. However I think I will focus on that full time after graduating. If I could animate it and visualize signal propagation through the network that would be a great portfolio builder. I also have not yet heard back from 80,000 hours. It's supposed to take two weeks but can be up to a month. If I can meet with them by the end of next week and they are helpful I will make a post about it. 
+
+**Are there any impediments in your way?**
+Not this week, its the final push of the semester. Although I am curious if others will include visualizations in their reports. I am not sure if it makes sense for me to do that in mine.
+
+**Reflection on the process you used last week, how can you make the process work better?**
+After the break I feel much more prepared for the final two weeks and ready to get everything done. If I work hard this week I can have a relatively mellow week next week. 
+
 
 
 ## Fundamental Algorithms for Leetcode:
