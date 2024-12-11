@@ -157,6 +157,7 @@ None that I can think of! This is the final stretch.
 I think this class has helped me start to narrow down paths to employment, and my aim is to focus on getting a job full time. Looking at all of the resources people have gathered over the semester has been very helpful.
 
 ## Project Report:
+[View My PDF](/"Final Project Report-1".pdf)
 
 
 ## Fundamental Algorithms for Leetcode:
