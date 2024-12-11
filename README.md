@@ -156,6 +156,9 @@ None that I can think of! This is the final stretch.
 **Reflection on the process you used last week, how can you make the process work better?**
 I think this class has helped me start to narrow down paths to employment, and my aim is to focus on getting a job full time. Looking at all of the resources people have gathered over the semester has been very helpful.
 
+## Project Report:
+
+
 ## Fundamental Algorithms for Leetcode:
   
 ### Binary Search
