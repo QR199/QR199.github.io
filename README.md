@@ -220,7 +220,6 @@ After the break I feel much more prepared for the final two weeks and ready to g
   source: https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/
 
   
-### BFS
   
 
 ## Cortical Minicolumn:
