@@ -142,7 +142,19 @@ Not this week, its the final push of the semester. Although I am curious if othe
 **Reflection on the process you used last week, how can you make the process work better?**
 After the break I feel much more prepared for the final two weeks and ready to get everything done. If I work hard this week I can have a relatively mellow week next week. 
 
+### week 15:
 
+**What did you do last week?**
+Last week I worked on my final project in ML, I made a vision model that detects neurobiological signs of dementia in brain scans. Unfortunately the dataset was missing many labels and not large enough to perform optimally. I also finished my final computer systems homework and began on my final report for this class. I heard back from 80,000 hours and they informed me that they would not be able to give me any advising. Apparently they receive a large volume of requests and have limited ability to respond. So maybe that resource is not the best. I also started looking into the largest fly brain dataset that was recently released. There have already been simulations of neural activity in this digital fly brain, which amazingly recreated common fly behavior. I think that I will adopt some of the techniques they used in their model for my brain project. 
+
+**What do you plan to do this week?**
+This week I am planning on finishing up the final report for this class and taking my last exam. After both of those things are complete I will continue looking for internships and jobs.
+
+**Are there any impediments in your way?**
+None that I can think of! This is the final stretch.
+
+**Reflection on the process you used last week, how can you make the process work better?**
+I think this class has helped me start to narrow down paths to employment, and my aim is to focus on getting a job full time. Looking at all of the resources people have gathered over the semester has been very helpful.
 
 ## Fundamental Algorithms for Leetcode:
   
